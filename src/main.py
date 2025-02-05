@@ -1,10 +1,3 @@
-# Backend: 
-# Python (FastAPI/Flask)
-# LangGraph for chatbot workflow
-# Open-source LLM (Hugging Face API, LLaMA 2, etc.)
-
-
-# main.py
 from fastapi import FastAPI
 from pydantic import BaseModel
 import mysql.connector
